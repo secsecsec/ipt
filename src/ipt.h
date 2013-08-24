@@ -187,7 +187,7 @@ class ipt_buf {
 ////////////////////////////////////////////////////////////////////////////////
 // Section:     Iptables
 
-struct ipt {
+class ipt {
     public:
 	ipt(const char *table);
 	~ipt();
@@ -263,7 +263,7 @@ struct ipt {
 ////////////////////////////////////////////////////////////////////////////////
 // Section:     Iptables list
 
-struct ipt_list {
+class ipt_list {
     public:
 	ipt_list();
 	~ipt_list();
