@@ -3,7 +3,16 @@ IPT
 Programmatically modify iptables under Linux.
 Might not work on all kernels.
 
-Example:
+Author
+----
+Benjamin Kittridge
+
+bysin@bysin.net
+
+http://byteworm.com
+
+Example
+----
 
     bysin::ipt *n;
 
