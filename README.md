@@ -9,8 +9,6 @@ Benjamin Kittridge
 
 bysin@bysin.net
 
-http://byteworm.com
-
 Example
 ----
 

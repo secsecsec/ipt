@@ -1,0 +1,5 @@
+*.o
+*.d
+.*
+!/.gitignore
+bin/ipt
